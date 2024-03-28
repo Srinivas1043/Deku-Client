@@ -1,0 +1,7 @@
+{
+  "name": "Deku",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
